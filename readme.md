@@ -1,4 +1,4 @@
-# THE-MOST-PURCHASED-BOOKS-ON-AMAZON
+# THE MOST PURCHASED BOOKS ON AMAZON
 
 *This project aims to highligh the most popular books on [Amazon](https://amazon.com) in recent titmes. 
 The data was gathered from the amazon web site on 2020-10-12, and aims to help book readers/sellers know what book is setting the pace.
